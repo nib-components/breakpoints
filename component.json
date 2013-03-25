@@ -1,0 +1,10 @@
+{
+  "name": "breakpoints",
+  "version": "0.1.0",
+  "scripts": ["index.js"],
+  "dependencies": {
+  	"component/emitter": "*",
+  	"matthewmueller/throttle": "*",
+  	"nib-components/string-utils": "0.0.1"
+  }
+}
